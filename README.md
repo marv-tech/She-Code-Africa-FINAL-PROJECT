@@ -19,6 +19,7 @@ SO, trying to understand the major factors that affected our economic growth in 
 This notebook contains explanatory,exploratory analysis and visualizations of this project
 
 ## Result of the analysis
+The analysis of the result can be read [here](https://medium.com/@marvischukz/gdp-vs-education-vs-adult-mortality-vs-percentage-expenditure-whats-the-catalyst-285745522f9b)
 
 ## Licensing,Authors and Acknowledgements
 I give credits to [kaggle](https://www.kaggle.com/) for the great dataset.
